@@ -1,0 +1,39 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Stupids Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url(./fonts/stupids-webfont/StupidsRegular-jEzZ9.woff);
+}
+
+/* @font-face {
+    font-family: 'Noto Sans';
+    src: url(./fonts/gg-sans-2/gg\ sans\ Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans';
+    src: url(./fonts/gg-sans-2/gg\ sans\ Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans';
+    src: url(./fonts/gg-sans-2/gg\ sans\ Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans';
+    src: url(./fonts/gg-sans-2/gg\ sans\ Semibold.ttf);
+    font-weight: 600;
+    font-style: normal;
+} */
