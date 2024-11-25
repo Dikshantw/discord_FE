@@ -2,7 +2,7 @@ import './App.css'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 //import Home from './components/Home'
-import Server1 from './components/server1';
+import Server1 from './components/Server1';
 import ServerList from './components/ServerList';
 import Channel from './components/Channel';
 
